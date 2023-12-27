@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "employees": [
+    {
+      "firstname": "Zeynep",
+      "lastname": "Lika",
+      "email": "lika@gmail.com",
+      "dob": "",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "kiki ",
+      "exp": 2,
+      "package": 15,
+      "id": 2
+    },
+    {
+      "firstname": "zeyn",
+      "lastname": "lika",
+      "email": "zeyn@gmail.com",
+      "dob": "",
+      "gender": "female",
+      "education": "Matric",
+      "company": "facebook",
+      "exp": 3,
+      "package": 4,
+      "id": 3
+    },
+    {
+      "firstname": "Zeyne",
+      "lastname": "Lika",
+      "email": "lika@gmail.com",
+      "dob": "",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "kiki ",
+      "exp": 2,
+      "package": 10,
+      "id": 4
+    }
+  ]
+}
